@@ -1,0 +1,103 @@
+
+.visiblity
+{
+    visibility: hidden;
+}
+.align1
+{
+    text-align: center;
+    margin:0px;
+    padding:0px;
+    font-size: 360%;
+    background-image:url("bg2.jpg");
+}
+body
+{
+    margin:0px; 
+    color:black;
+    font-family: 'Yeon Sung', cursive; 
+}
+div.head1
+{
+    position: relative;
+    height:250px;
+    line-height: 220px;
+    vertical-align: middle;
+    margin:0px;
+    padding: 0px;
+    background-image:url("bg2.jpg");
+}
+.head1
+{
+    margin:0px;
+    padding: 0px;
+    background-color:red;
+    
+}
+.head1 img
+{
+    position: absolute;
+    line-height: 250px;
+    vertical-align: middle;
+    top:30px;
+    left:400px;
+
+}
+.heading
+{
+    margin:0px;
+    padding: 0px;
+    margin:0px;
+    position: absolute;
+    top:10px;
+    left:565px;
+    font-size:300%;
+}
+div.img1
+{
+    position: relative;
+    bottom:100px;
+    margin-top:0px;
+    left:330px;
+    float:center;
+}
+.img1 img 
+{
+    display: inline-block;
+    margin:7em;
+}
+div.pp
+{
+    position: relative;
+    left:450px;
+    float:center;
+    font-size:350%;  
+}
+.pp p
+{
+    display: inline-block;
+    margin-right: 3.8em;
+}
+div.end1
+{
+    background-image:url("bg2.jpg");   
+    height: 150px;
+    margin:0px;
+    padding:0px;
+    text-align: center;
+    color: white;
+    position: relative;
+}
+.end1 #p1
+{
+ position: absolute;
+ top:20px;
+ left:700px;
+ 
+}
+.end1 #p2
+{
+ position: absolute;
+ top:70px;
+ left:700px;
+}
